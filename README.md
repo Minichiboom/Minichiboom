@@ -13,7 +13,7 @@ Hello there!!, I’m Jang Min.
 - Explanable Time Series Modeling (ARIMAX, Dynamic Regression)
 - Data Mining
 
-> **paper**
+> **Paper**
 
 > **Projects**
 
