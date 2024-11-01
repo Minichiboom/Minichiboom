@@ -10,7 +10,7 @@ Hello there!!, I’m Jang Min.
 - Marketing Data Analysis
 - Time Series Forecasting
 - Time Series Intervention Analysis
-- Explanable Time Series Model (ARIMAX, Dynamic Regression)
+- Explanable Time Series Modeling (ARIMAX, Dynamic Regression)
 - Data Mining
 
 > **paper**
